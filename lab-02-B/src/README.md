@@ -2,7 +2,7 @@
 Driver for MAX30100 using arduino
 
 
-This code is part of tutorial on my blog: https://morf.lv/implementing-pulse-oximeter-using-max30100
+This code is part of tutorial on blog: https://morf.lv/implementing-pulse-oximeter-using-max30100
 
 # Sample Usage
 ```
